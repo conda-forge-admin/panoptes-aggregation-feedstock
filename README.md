@@ -7,33 +7,39 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/panoptes-aggreg
 About panoptes-aggregation
 --------------------------
 
-Home: https://github.com/zooniverse/aggregation-for-caesar
+Home: https://pypi.org/project/panoptes-aggregation
 
 Package license: Apache-2.0
 
 Summary: Aggregation code for Zooniverse panoptes projects.
+
+Development: https://github.com/zooniverse/aggregation-for-caesar
 
 Documentation: https://aggregation-caesar.zooniverse.org/docs
 
 About panoptes-aggregation-with-gui
 -----------------------------------
 
-Home: https://github.com/zooniverse/aggregation-for-caesar
+Home: https://pypi.org/project/panoptes-aggregation
 
 Package license: Apache-2.0
 
 Summary: Aggregation code for Zooniverse panoptes projects. (with [gui])
+
+Development: https://github.com/zooniverse/aggregation-for-caesar
 
 Documentation: https://aggregation-caesar.zooniverse.org/docs
 
 About panoptes-aggregation-with-online
 --------------------------------------
 
-Home: https://github.com/zooniverse/aggregation-for-caesar
+Home: https://pypi.org/project/panoptes-aggregation
 
 Package license: Apache-2.0
 
 Summary: Aggregation code for Zooniverse panoptes projects. (with [online])
+
+Development: https://github.com/zooniverse/aggregation-for-caesar
 
 Documentation: https://aggregation-caesar.zooniverse.org/docs
 
